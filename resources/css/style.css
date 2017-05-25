@@ -1,0 +1,25 @@
+/*
+  Custom styles for Trackster App
+*/
+
+/* General styling */
+html {
+  font-size: 16px;
+}
+
+/* Header section styling */
+header {
+  background-color: rgb(35, 2, 63);
+  width: 100%;
+  position: fixed;
+}
+
+.title-text {
+  font-family: Righteous;
+  font-size: 2.5rem;
+  color: rgb(255, 0, 171);
+}
+
+.search-icon {
+  background-color: rgb(255, 102, 204);
+}
